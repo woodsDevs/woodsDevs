@@ -12,13 +12,13 @@
 
 </div>
 
-## 🚀 What I'm working on
+## What I'm working on
 
 - **[Club Manager](https://github.com/woodsDevs/club-manager)** ([live site](https://clawconnectuwm.me)): Django capstone app for running campus clubs, with role-based access, membership approvals, notifications, and an events calendar
 - **[MaxTrak](https://github.com/woodsDevs/maxtrak)**: iOS lifting-records tracker built with Swift, SwiftUI, and SwiftData
 - **[SoulSpend](https://github.com/woodsDevs/soulspend)**: Souls-like roguelite I'm building solo in Unity
 
-## 🛠️ Tech I use
+## Tech Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 
 
 
-## 📫 Find me
+## Find me
 
 <div align="center">
 
