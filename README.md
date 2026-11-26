@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mason%20Woods&fontSize=60&fontAlignY=38&animation=fadeIn&desc=aka%20woodsDev&descAlignY=58&descSize=22" width="100%" />
 
 <a href="https://github.com/woodsDevs">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+student+%7C+graduating+in+December;I+build+apps%2C+games%2C+and+web+tools;I+make+videos+as+woodsDev;Django+%E2%80%A2+Swift+%E2%80%A2+Unity+%E2%80%A2+C%23" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+student+%7C+graduating+in+December;I+build+apps%2C+games%2C+and+web+tools;Find+me+on+youtube;Django+%E2%80%A2+Swift+%E2%80%A2+Unity+%E2%80%A2+C%23" alt="Typing SVG" />
 </a>
 
 <br/>
