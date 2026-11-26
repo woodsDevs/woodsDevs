@@ -33,24 +33,7 @@
 
 </div>
 
-## 📊 GitHub stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=woodsDevs&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodsDevs&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=woodsDevs&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=woodsDevs&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## 🐍 Contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/woodsDevs/woodsDevs/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ## 📫 Find me
 
