@@ -1,14 +1,26 @@
-# Mason Woods
+<div align="center">
 
-CS student (graduating December) who builds apps, games, and web tools, and makes videos as **woodsDev**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mason%20Woods&fontSize=60&fontAlignY=38&animation=fadeIn&desc=aka%20woodsDev&descAlignY=58&descSize=22" width="100%" />
 
-## What I'm working on
+<a href="https://github.com/woodsDev">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+student+%7C+graduating+in+December;I+build+apps%2C+games%2C+and+web+tools;I+make+videos+as+woodsDev;Django+%E2%80%A2+Swift+%E2%80%A2+Unity+%E2%80%A2+C%23" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=woodsDev&style=for-the-badge&color=blueviolet" alt="Profile views" />
+
+</div>
+
+## 🚀 What I'm working on
 
 - **[Club Manager](https://github.com/woodsDev/club-manager)** ([live site](https://clawconnectuwm.me)): Django capstone app for running campus clubs, with role-based access, membership approvals, notifications, and an events calendar
 - **[MaxTrak](https://github.com/woodsDev/maxtrak)**: iOS lifting-records tracker built with Swift, SwiftUI, and SwiftData
 - **[SoulSpend](https://github.com/woodsDev/soulspend)**: Souls-like roguelite I'm building solo in Unity
 
-## Tech I use
+## 🛠️ Tech I use
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -19,8 +31,35 @@ CS student (graduating December) who builds apps, games, and web tools, and make
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Find me
+</div>
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=woodsDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woodsDev&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=woodsDev&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=woodsDev&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/woodsDev/woodsDev/output/github-snake-dark.svg" alt="Snake animation" />
+</div>
+
+## 📫 Find me
+
+<div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@woodsDev)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@woodsDev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+
+</div>
